@@ -3,25 +3,58 @@
     padding: 0;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;700&display=swap');
+
 body {
-    background-color: rgb(196, 219, 255);
+    background-color: rgb(251, 237, 217);
+    color:rgb(66, 46, 23);
+    font-family: 'Open Sans', sans-serif;
 }
 
 img {
-    width: 50px;
+    width: 100px;
+    border-radius: 50%;
 }
 
 article {
     background-color: white;
+    height: 400px;
+    border-radius: 20px;
+
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: space-evenly;
-    height: 400px;
+    justify-content: center;
+
+    box-shadow: 0px 10px 13px 5px rgb(66, 46, 23, 0.1);
 }
 
 article div {
     text-align: center;
+    padding: 30px;
+}
+
+h2 {
+    padding-bottom: 10px;
+}
+
+p {
+    text-transform: uppercase;
+}
+a {
+    border-top: 2px solid rgba(95, 70, 42, 0.312);
+    padding-top: 30px;
+    text-decoration: none;
+    color:rgb(66, 46, 23);
+}
+
+a:hover {
+    background-color: rgb(251, 237, 217);
+    padding: 20px;
+    border-radius: 10px;
+    text-decoration: none;
+    border: none;
+    box-shadow: 0px 10px 13px 5px rgb(66, 46, 23, 0.1);
 }
 
 /* Computer screen */
