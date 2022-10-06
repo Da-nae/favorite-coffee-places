@@ -26,6 +26,9 @@ article {
     align-items: center;
     justify-content: center;
 
+}
+
+article:hover {
     box-shadow: 0px 10px 13px 5px rgb(66, 46, 23, 0.1);
 }
 
@@ -40,10 +43,12 @@ h2 {
 
 p {
     text-transform: uppercase;
+    padding-bottom: 10px;
 }
+
 a {
     border-top: 2px solid rgba(95, 70, 42, 0.312);
-    padding-top: 30px;
+    padding-top: 20px;
     text-decoration: none;
     color:rgb(66, 46, 23);
 }
