@@ -3,7 +3,7 @@ Becode challenge focused on using grid in CSS. I used it to share with you my fa
 
 ## **Who did this project ?**
 
-Me, Danaé;
+Me, Danaé.
 
 ## **Why create this projet ?**
 
