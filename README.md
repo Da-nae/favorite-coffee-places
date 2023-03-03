@@ -1,5 +1,5 @@
 # Grid-away-grid-ahoy
-Becode challenge focused on using grid in CSS.
+Becode challenge focused on using grid in CSS. I used it to share with you my favorites coffee place in Liège, if you want to see it, [click here](https://da-nae.github.io/Grid-away-grid-ahoy/).
 
 ## **Who did this project ?**
 
@@ -19,4 +19,4 @@ The design.
 
 ## **What the hardest part ?**
 
-For now, it was a pretty smooth project, si I would say nothing yet !
+For now, it was a pretty smooth project, so I would say nothing yet !
